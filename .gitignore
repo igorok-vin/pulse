@@ -2,3 +2,4 @@ node_modules
 gulpfile.js
 package.json
 GULP_how_to_work.txt
+package-lock.json
