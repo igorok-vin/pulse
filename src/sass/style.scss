@@ -1,0 +1,12 @@
+@import "base/variables";
+* {
+  font-family: "Museo Sans Cyrl", sans-serif;
+}
+
+/*для сиснтаксиса SCSS треба ставити { } * /
+/*задаєм ширину сторінки всього проекта через flex*/
+.conteiner {
+  max-width: 950px;
+  margin: 0 auto;
+  /*вирівнюм весь контент по центру*/
+}
